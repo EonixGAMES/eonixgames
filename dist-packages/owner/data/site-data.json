@@ -1,0 +1,122 @@
+{
+  "generated": "2026-11-10T01:33:55.556Z",
+  "launch": {
+    "enabled": false,
+    "gameSlug": "",
+    "title": "",
+    "image": "",
+    "focusX": 50,
+    "focusY": 50,
+    "text": {
+      "en": "",
+      "ar": ""
+    },
+    "button": {
+      "en": "",
+      "ar": ""
+    }
+  },
+  "games": [
+    {
+      "slug": "echoes-of-algeria",
+      "title": {
+        "en": "ECHOES OF ALGERIA",
+        "ar": ""
+      },
+      "short": {
+        "en": "",
+        "ar": ""
+      },
+      "full": {
+        "en": "",
+        "ar": ""
+      },
+      "cover": "assets/images/games/echoes-of-algeria-cover.jpg",
+      "banner": "assets/images/games/banner-echoes-of-algeria.png",
+      "shots": [],
+      "trailer": "",
+      "platform": "PC",
+      "status": "In Development",
+      "releaseDate": "",
+      "stores": {
+        "googlePlay": "",
+        "appStore": "",
+        "pc": ""
+      },
+      "download": "",
+      "features": {
+        "en": [],
+        "ar": []
+      },
+      "featured": true,
+      "published": true,
+      "id": "echoes-of-algeria",
+      "shortDescription": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "slug": "harrag",
+      "title": {
+        "en": "HARRAG",
+        "ar": ""
+      },
+      "short": {
+        "en": "",
+        "ar": ""
+      },
+      "full": {
+        "en": "",
+        "ar": ""
+      },
+      "cover": "assets/images/games/harrag-cover.jpg",
+      "banner": "assets/images/games/banner-harrag.png",
+      "shots": [],
+      "trailer": "",
+      "platform": "PC",
+      "status": "In Development",
+      "releaseDate": "",
+      "stores": {
+        "googlePlay": "",
+        "appStore": "",
+        "pc": ""
+      },
+      "download": "",
+      "features": {
+        "en": [],
+        "ar": []
+      },
+      "featured": true,
+      "published": true,
+      "id": "harrag",
+      "shortDescription": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "id": "next-project",
+      "slug": "next-project",
+      "title": {
+        "en": "NEXT PROJECT",
+        "ar": ""
+      },
+      "platform": "PC",
+      "cover": "assets/images/games/next-project-cover.jpg",
+      "status": "In Development",
+      "shortDescription": {
+        "en": "",
+        "ar": ""
+      },
+      "short": {
+        "en": "",
+        "ar": ""
+      },
+      "featured": true,
+      "published": true,
+      "banner": "assets/images/games/banner-next-project.png"
+    }
+  ],
+  "articles": []
+}

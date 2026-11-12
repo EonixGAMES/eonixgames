@@ -1,0 +1,87 @@
+window.EONIX_DATA = {
+  "generated": "2026-11-12T04:57:18.395Z",
+  "launch": {
+    "enabled": true,
+    "gameSlug": "between",
+    "title": "BETWEEN",
+    "image": "assets/images/games/banner_between.png",
+    "focusX": 50,
+    "focusY": 50,
+    "status": "In Development",
+    "text": {
+      "en": "Two Worlds. One Journey.",
+      "ar": "عالمان. رحلة واحدة."
+    },
+    "button": {
+      "en": "Discover BETWEEN",
+      "ar": "اكتشف BETWEEN"
+    }
+  },
+  "games": [
+    {
+      "id": "between",
+      "slug": "between",
+      "title": {
+        "en": "BETWEEN",
+        "ar": "BETWEEN"
+      },
+      "short": {
+        "en": "A mysterious fantasy adventure between two interconnected worlds, AETHER and UMBRA. Embark on a journey where reality takes two different forms.",
+        "ar": "مغامرة فانتازية غامضة بين عالمين مترابطين، AETHER وUMBRA. انطلق في رحلة تتخذ فيها الحقيقة وجهين مختلفين."
+      },
+      "shortDescription": {
+        "en": "A mysterious fantasy adventure between two interconnected worlds, AETHER and UMBRA. Embark on a journey where reality takes two different forms.",
+        "ar": "مغامرة فانتازية غامضة بين عالمين مترابطين، AETHER وUMBRA. انطلق في رحلة تتخذ فيها الحقيقة وجهين مختلفين."
+      },
+      "full": {
+        "en": "BETWEEN is an atmospheric fantasy adventure game developed by EONIX GAMES.\n\nEnter a mysterious reality shaped by two interconnected worlds: AETHER and UMBRA.\n\nEach world presents a different side of this mysterious universe, revealing contrasting environments, hidden secrets, and unexplored places.\n\nFollow the journey of THE TRAVELER as the boundaries between these realities become part of an extraordinary adventure.\n\nDiscover what lies BETWEEN.\n\nTwo Worlds. One Journey.\n\nCurrently in development by EONIX GAMES.",
+        "ar": "BETWEEN هي لعبة مغامرات فانتازية ذات أجواء غامضة، من تطوير EONIX GAMES.\n\nادخل إلى واقع غامض يتشكل من عالمين مترابطين: AETHER وUMBRA.\n\nيقدم كل عالم جانباً مختلفاً من هذا الكون الغامض، ببيئات متباينة وأسرار خفية وأماكن لم تُكتشف بعد.\n\nرافق THE TRAVELER في رحلته، حيث تصبح الحدود بين هذين الواقعين جزءاً من مغامرة استثنائية.\n\nاكتشف ما يكمن بين العالمين.\n\nعالمان. رحلة واحدة.\n\nاللعبة قيد التطوير حالياً بواسطة EONIX GAMES."
+      },
+      "published": true,
+      "cover": "assets/images/games/cover_between.png",
+      "banner": "assets/images/games/banner_between.png",
+      "shots": [],
+      "trailer": "",
+      "platform": "PC & Mobile",
+      "status": "In Development",
+      "releaseDate": "",
+      "stores": {
+        "googlePlay": "",
+        "appStore": "",
+        "pc": ""
+      },
+      "download": "",
+      "features": {
+        "en": [],
+        "ar": []
+      },
+      "featured": true
+    }
+  ],
+  "articles": [
+    {
+      "id": "development-of-between-has-officially-begun",
+      "slug": "development-of-between-has-officially-begun",
+      "title": {
+        "en": "Development of BETWEEN Has Officially Begun",
+        "ar": "انطلاق عملية تطوير لعبة BETWEEN رسمياً"
+      },
+      "excerpt": {
+        "en": "EONIX GAMES officially announces the beginning of development of its first game, BETWEEN, an atmospheric fantasy adventure set between two interconnected worlds: AETHER and UMBRA.",
+        "ar": "تعلن EONIX GAMES رسمياً عن بدء تطوير أول ألعابها BETWEEN، وهي مغامرة فانتازية غامضة تدور بين عالمين مترابطين: AETHER وUMBRA."
+      },
+      "full": {
+        "en": "A New Journey Begins.\n\nEONIX GAMES is excited to announce that development of BETWEEN, the studio's first official game, has officially begun.\n\nBETWEEN is an atmospheric fantasy adventure built around two interconnected worlds: AETHER and UMBRA.\n\nPlayers will follow THE TRAVELER through mysterious environments, discovering the differences and connections between these two realities.\n\nThis marks an important milestone for EONIX GAMES as the studio begins its journey into game development.\n\nBETWEEN is currently in development.\n\nMore details and development updates will be shared in the future.\n\nTwo Worlds. One Journey.",
+        "ar": "تبدأ رحلة جديدة.\n\nيسر EONIX GAMES الإعلان عن الانطلاق الرسمي لعملية تطوير BETWEEN، أول لعبة رسمية للاستوديو.\n\nBETWEEN هي لعبة مغامرات فانتازية ذات أجواء غامضة، تتمحور حول عالمين مترابطين هما AETHER وUMBRA.\n\nسيرافق اللاعب THE TRAVELER في رحلته عبر بيئات غامضة، لاكتشاف الاختلافات والروابط بين هذين العالمين.\n\nتمثل هذه الخطوة محطة مهمة في مسيرة EONIX GAMES، وبداية رحلتها في تطوير الألعاب.\n\nاللعبة قيد التطوير حالياً.\n\nسنشارك المزيد من التفاصيل وتحديثات التطوير في المستقبل.\n\nعالمان. رحلة واحدة."
+      },
+      "published": true,
+      "cover": "assets/images/games/banner_between.png",
+      "date": "2026-11-12",
+      "category": {
+        "en": "Development Update",
+        "ar": "تحديثات التطوير"
+      },
+      "gameSlug": "between"
+    }
+  ]
+};
